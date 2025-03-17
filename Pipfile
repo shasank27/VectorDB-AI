@@ -8,6 +8,8 @@ langchain-google-genai = "*"
 langchain = "*"
 pinecone = "*"
 python-dotenv = "*"
+langchain-community = "*"
+langchain-pinecone = "*"
 
 [dev-packages]
 
